@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SouravEmpire07
+- 👋 Hi, I’m @Sourav Bhowmick
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on frontend Web Development
