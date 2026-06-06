@@ -1,7 +1,7 @@
 # Hey there, I'm Sourav! 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=2563EB&width=435&lines=Full+Stack+Developer;Python+Backend+Enthusiast;Automation+%26+Scraping+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=2563EB&width=435&lines=Full+Stack+Developer;Python+Enthusiast;Data Analyst;Automation+%26+Scraping+Expert" alt="Typing SVG" />
 </div>
 
 ---
@@ -68,5 +68,5 @@ I am a **Full Stack & Backend Developer** who loves building sleek, user-focused
 
 ---
 <div align="center">
-  <b>Built with ❤️ by Sourav</b>
+  <b>Built by Sourav07 </b>
 </div>
