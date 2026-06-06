@@ -57,13 +57,14 @@ I am a **Full Stack & Backend Developer** who loves building sleek, user-focused
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SouravEmpire07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sourav's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravEmpire07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SouravEmpire07&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SouravEmpire07&bg_color=1a1a1a&color=2563eb&line=2563eb&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
+
 
 ---
 <div align="center">
